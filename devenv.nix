@@ -2,7 +2,6 @@
 
 {
   # https://devenv.sh/basics/
-  env.GREET = "devenv";
   # FIXME: trows error, uncomment when fixed
   # env.RUSTC_WRAPPER = "${pkgs.sccache}/bin/sccache";
   # don't clash with rust-analyzer
